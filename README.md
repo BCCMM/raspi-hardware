@@ -1,2 +1,2 @@
-# rasppi-hardware
+# raspi-hardware
 hardware side for raspberry pi
